@@ -41,7 +41,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PingMessage.cs" />
+    <Compile Include="PingMessageTwo.cs" />
     <Compile Include="PongMessage.cs" />
+    <Compile Include="PongMessageTwo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -2,7 +2,7 @@
 
 namespace Sample.MessageTypes
 {
-	public class PingMessage
+	public class PingMessageTwo
 	{
 		public string Text { get; set; }
 		public DateTime Time { get; set; }
